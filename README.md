@@ -1,1 +1,4 @@
-# PREDICTION-OF-ANTIBIOTIC-RESISTANCE-TO-NORFLOXACIN-STREPTOCOCCUS-PNEUMONIAE-IN-PATIENTS-WITH-RESPIRA
+# PREDICTION-OF-ANTIBIOTIC-RESISTANCE-TO-NORFLOXACIN-STREPTOCOCCUS-PNEUMONIAE
+
+
+An approach is presented that allows using a crude learning model to predict the resistance of Streptococcus pneumoniae to norfloxacin. Purpose. Analyze laboratory and clinical data with the results of antibiogram Streptococcus pneumoniae isolated from sputum in patients with respiratory tract diseases. Methodology. A retrospective analysis of the data of patients treated in the pulmonary department of the health care institution "Grodno Regional Hospital of Medical Rehabilitation" and the construction of a neural network for predicting the resistance of Streptococcus pneumoniae to norfloxacin was carried out. Results and discussion. The constructed neural network with 83.3% sensitivity and 62.5% specificity predicts the resistance of Streptococcus pneumoniae to norfloxacin, which can help to optimize the choice of antibiotic therapy. Conclusions. Deep learning can help improve the quality of empirical antibiotic therapy.
